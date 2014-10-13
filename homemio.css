@@ -60,3 +60,10 @@ a:active {
     color: white;
  text-decoration: none;
 }
+
+
+#enca {
+text-align: right;
+margin-right: 20px;
+margin-top: 20px;
+}
